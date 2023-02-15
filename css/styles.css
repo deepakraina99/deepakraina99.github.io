@@ -121,7 +121,7 @@ ul ol {
 }
 
 li{
-  margin: 6px 0;
+  margin: 3px 0;
 }
 
 dt {
@@ -10164,3 +10164,4 @@ section.resume-section .resume-section-content {
   height: 200px;
   object-fit: scale-down;
 }
+
